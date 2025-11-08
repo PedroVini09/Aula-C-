@@ -1,0 +1,15 @@
+C:\Users\PARTICULAR\Downloads\logica de programação\AULA_C#\bin\Debug\net9.0\AULA_C#.exe
+C:\Users\PARTICULAR\Downloads\logica de programação\AULA_C#\bin\Debug\net9.0\AULA_C#.deps.json
+C:\Users\PARTICULAR\Downloads\logica de programação\AULA_C#\bin\Debug\net9.0\AULA_C#.runtimeconfig.json
+C:\Users\PARTICULAR\Downloads\logica de programação\AULA_C#\bin\Debug\net9.0\AULA_C#.dll
+C:\Users\PARTICULAR\Downloads\logica de programação\AULA_C#\bin\Debug\net9.0\AULA_C#.pdb
+C:\Users\PARTICULAR\Downloads\logica de programação\AULA_C#\obj\Debug\net9.0\AULA_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PARTICULAR\Downloads\logica de programação\AULA_C#\obj\Debug\net9.0\AULA_C#.AssemblyInfoInputs.cache
+C:\Users\PARTICULAR\Downloads\logica de programação\AULA_C#\obj\Debug\net9.0\AULA_C#.AssemblyInfo.cs
+C:\Users\PARTICULAR\Downloads\logica de programação\AULA_C#\obj\Debug\net9.0\AULA_C#.csproj.CoreCompileInputs.cache
+C:\Users\PARTICULAR\Downloads\logica de programação\AULA_C#\obj\Debug\net9.0\AULA_C#.sourcelink.json
+C:\Users\PARTICULAR\Downloads\logica de programação\AULA_C#\obj\Debug\net9.0\AULA_C#.dll
+C:\Users\PARTICULAR\Downloads\logica de programação\AULA_C#\obj\Debug\net9.0\refint\AULA_C#.dll
+C:\Users\PARTICULAR\Downloads\logica de programação\AULA_C#\obj\Debug\net9.0\AULA_C#.pdb
+C:\Users\PARTICULAR\Downloads\logica de programação\AULA_C#\obj\Debug\net9.0\AULA_C#.genruntimeconfig.cache
+C:\Users\PARTICULAR\Downloads\logica de programação\AULA_C#\obj\Debug\net9.0\ref\AULA_C#.dll
